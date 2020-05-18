@@ -1,0 +1,3 @@
+[submodule "basnetwrapper/BASNet"]
+	path = basnetwrapper/BASNet
+	url = https://github.com/NathanUA/BASNet

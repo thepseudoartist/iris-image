@@ -30,6 +30,7 @@ app/doc/api/
 *.swp
 *.env
 *.pth
+*.pyc
 *.sqlite3
 
 # Removing debug images
