@@ -2,6 +2,14 @@
 
 Iris is a AI based tool to extract elements from environment using Flutter [app](/app) to a editing software like Adobe Photoshop.
 
+## Cloning Repository
+
+This repository depends on submodules.
+
+  ```bash
+  git clone --recursive [GIT REPO LINK]
+  ```
+
 ## Components
 
 - **Flutter Application**
