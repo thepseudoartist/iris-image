@@ -1,0 +1,51 @@
+name: app
+description: Iris.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # http client
+  dio: ^3.0.9
+
+  # animations
+  lottie: ^0.3.4
+
+  # custom toasts
+  fluttertoast: ^4.0.1
+
+  # camera, image picker and sharing
+  camera: ^0.5.7+4
+  image_picker: ^0.6.6+1
+  path_provider: ^1.6.7
+  esys_flutter_share: ^1.0.2
+
+  # async database
+  hive: ^1.4.1+1
+  hive_flutter: ^0.3.0+2
+
+  # local cache
+  shared_preferences: ^0.5.7+1
+
+  # font library
+  google_fonts: ^1.0.0
+
+  data_connection_checker: ^0.3.4
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner:
+  hive_generator:
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/anim/
