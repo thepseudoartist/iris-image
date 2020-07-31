@@ -73,6 +73,8 @@ This repository depends on submodules.
     pip install -r requirements.txt
     python manage.py runserver [base_url]
     ```
+## Credits
+  Original Idea - [AR Cut Paste](https://github.com/cyrildiagne/ar-cutpaste)
 
 ## Bugs and To-Dos
 
