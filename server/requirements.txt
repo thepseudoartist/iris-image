@@ -4,5 +4,5 @@ opencv_python==4.1.0.25
 numpy==1.16.4
 Django==3.0.3
 pyscreenshot==1.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 Pillow==7.1.2
