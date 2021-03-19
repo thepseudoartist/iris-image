@@ -4,7 +4,7 @@ torch==1.5.0
 Django==3.0.3
 torchvision==0.6.0
 numpy==1.16.4
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 Pillow==7.1.2
 python-decouple==3.3
 skimage==0.0
