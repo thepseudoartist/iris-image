@@ -5,4 +5,4 @@ numpy==1.16.4
 Django==3.0.3
 pyscreenshot==1.0
 djangorestframework==3.11.0
-Pillow==7.1.2
+Pillow==9.0.1
