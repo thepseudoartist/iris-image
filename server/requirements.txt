@@ -1,7 +1,7 @@
 photoshop_connection==0.1.2
 requests==2.23.0
 opencv_python==4.1.0.25
-numpy==1.16.4
+numpy==1.22.0
 Django==3.0.3
 pyscreenshot==1.0
 djangorestframework==3.11.0
